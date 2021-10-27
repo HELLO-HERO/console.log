@@ -1,0 +1,18 @@
+var sentence1 = "Mi nombre es ";
+console.log (sentence1);
+var first_name = "Siddharth";
+console.log (first_name);
+var last_name = "Saimukundhan";
+console.log (last_name);
+var addend_1 = 98;
+console.log (addend_1 + " + ");
+var addend_2 = 7;
+console.log (addend_2 + " = ");
+var total = addend_1 + addend_2;
+console.log (total);
+var subtract = addend_1 - addend_2;
+console.log (subtract);
+var multiply = addend_1 * addend_2;
+console.log (multiply);
+var div = addend_1 / addend_2;
+console.log (div);
